@@ -1,11 +1,11 @@
-package com.abbasov.inkabet.fragment
+package com.abbasov.sportingbet.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.abbasov.inkabet.databinding.FragmentGBinding
+import com.abbasov.sportingbet.databinding.FragmentGBinding
 
 
 class G : Fragment() {

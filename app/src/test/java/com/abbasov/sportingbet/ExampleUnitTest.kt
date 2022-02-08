@@ -1,4 +1,4 @@
-package com.abbasov.inkabet
+package com.abbasov.sportingbet
 
 import org.junit.Test
 

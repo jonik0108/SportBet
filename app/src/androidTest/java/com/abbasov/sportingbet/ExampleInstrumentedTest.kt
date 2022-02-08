@@ -1,4 +1,4 @@
-package com.abbasov.inkabet
+package com.abbasov.sportingbet
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

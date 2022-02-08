@@ -1,4 +1,4 @@
-package com.abbasov.inkabet
+package com.abbasov.sportingbet
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -7,7 +7,7 @@ import android.util.Log
 import android.view.animation.AnimationUtils
 import android.widget.Button
 import android.widget.Toast
-import com.abbasov.inkabet.utils.User
+import com.abbasov.sportingbet.utils.User
 import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInClient
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions

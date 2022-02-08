@@ -1,15 +1,13 @@
-package com.abbasov.inkabet
+package com.abbasov.sportingbet
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.Fragment
-import com.abbasov.inkabet.adapter.Pager1
-import com.abbasov.inkabet.databinding.ActivityTwoBinding
-import com.abbasov.inkabet.fragment.D
-import com.abbasov.inkabet.fragment.E
-import com.abbasov.inkabet.fragment.F
-import com.eftimoff.viewpagertransformers.CubeInTransformer
-import com.eftimoff.viewpagertransformers.CubeOutTransformer
+import com.abbasov.sportingbet.adapter.Pager1
+import com.abbasov.sportingbet.databinding.ActivityTwoBinding
+import com.abbasov.sportingbet.fragment.D
+import com.abbasov.sportingbet.fragment.E
+import com.abbasov.sportingbet.fragment.F
 import com.eftimoff.viewpagertransformers.ZoomInTransformer
 
 class Two : AppCompatActivity() {

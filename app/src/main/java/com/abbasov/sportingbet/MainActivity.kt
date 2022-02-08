@@ -1,11 +1,11 @@
-package com.abbasov.inkabet
+package com.abbasov.sportingbet
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
-import com.abbasov.inkabet.databinding.ActivityMainBinding
+import com.abbasov.sportingbet.databinding.ActivityMainBinding
 import com.google.firebase.auth.FirebaseAuth
 
 class MainActivity : AppCompatActivity() {

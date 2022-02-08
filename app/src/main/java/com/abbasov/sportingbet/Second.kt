@@ -1,14 +1,13 @@
-package com.abbasov.inkabet
+package com.abbasov.sportingbet
 
 import android.content.Intent
 import android.os.Bundle
-import android.os.Handler
 import android.view.View
 import android.view.animation.AnimationUtils
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import androidx.appcompat.app.AppCompatActivity
-import com.abbasov.inkabet.databinding.ActivitySecondBinding
+import com.abbasov.sportingbet.databinding.ActivitySecondBinding
 import com.google.firebase.database.DataSnapshot
 import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.FirebaseDatabase

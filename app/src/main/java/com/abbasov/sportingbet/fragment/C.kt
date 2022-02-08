@@ -1,23 +1,25 @@
-package com.abbasov.inkabet.fragment
+package com.abbasov.sportingbet.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.abbasov.inkabet.databinding.FragmentEBinding
+import com.abbasov.sportingbet.databinding.FragmentCBinding
 
 
-class E : Fragment() {
+class C : Fragment() {
 
-    lateinit var binding:FragmentEBinding
+    lateinit var binding:FragmentCBinding
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        binding= FragmentEBinding.inflate(LayoutInflater.from(context))
+
+        binding = FragmentCBinding.inflate(LayoutInflater.from(context))
         return binding.root
     }
+
 
 }
